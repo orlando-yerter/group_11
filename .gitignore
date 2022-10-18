@@ -1,0 +1,6 @@
+requirements.txt
+.vscode
+db.squlite3
+manage.py
+static/
+*.pyc
